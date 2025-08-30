@@ -9,7 +9,7 @@
 
 To implement the Vigenere Cipher substitution technique using C program.
 
-## DESCRIPTION:
+## DESCRIPTION: 
 
 To encrypt, a table of alphabets can be used, termed a tabula recta, Vigenère square,or Vigenère table. It consists of the alphabet written out 26 times in differnt rows, each
  
